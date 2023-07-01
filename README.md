@@ -5,7 +5,7 @@ It provides basic functionality for users to browse products, and place orders.
 Features:
 
 User Registration: 
-Users can create an account by providing their name, email, and password. Once registered, they can log in to the site.
+Users can create an account by providing their name and password. Once registered, they can log in to the site.
 
 Product Listing: 
 The site displays a list of available products with details such as name, price, and description.
